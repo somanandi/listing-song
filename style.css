@@ -1,0 +1,116 @@
+html, body{
+   margin : 0;
+   height: 100%;
+   background-color: rgb(205, 234, 243);
+   
+}
+
+*{font-family: 'Poppins', sans-serif;}
+
+
+.Ar p {
+   color: rgb(98, 34, 34);
+   size: 12px;
+   text-align: center;
+}
+
+.Ar {
+   padding-left: 150px;
+   width: 50%;
+}
+/* top 10 artist */
+#Artist {
+   text-align: center;
+   font-size: 40px;;
+   text-decoration: underline;
+   
+}
+
+.Ar1 {
+   display: inline-flex;
+}
+
+.Ar2 {
+   display: inline-flex;
+}
+
+
+
+/* top 10 song */
+
+
+#Son {
+   text-align: center;
+   font-size: 40px;
+   text-decoration: underline;
+}
+
+.Song1 {
+   display: inline-flex;
+}
+
+
+.Song2 {
+   display: inline-flex;
+}
+
+.Song a {
+   text-decoration: none;
+   text-align: center;
+   padding: 5px;
+}
+
+.Ar a {
+   text-decoration: none;
+   color: black;
+   text-align: center;
+   padding: 10px;
+}
+
+.Add {
+   text-align: center;
+   size: 14px;
+   padding-top: 100px;
+  
+}
+
+.Add p {
+   font-size: 20px;
+  
+}
+
+.Butn {
+   size: 40px;
+   text-decoration: none;
+}
+
+/* rating song */
+.Ra {
+   text-align: center;
+   size: 14px;
+   padding-top: 100px;
+}
+
+/* music.html page */
+.Mu {
+   padding-left: 400px;
+    padding-top: 200px;
+}
+
+.Mu1 {
+   padding: 5px;
+}
+.Sb {
+   padding-top: 10px;
+   padding-left: 450px;
+   text-decoration: none;
+}
+.Sb a {
+   text-decoration: none;
+   color: black;
+}
+.But a {
+   text-decoration: none;
+}
+
+
